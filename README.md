@@ -12,5 +12,6 @@
 
 [React Native 之调用原生模块(v0.31)](/React Native 之调用原生模块(v0.31).md)
 
+[React Native 之 Navigator(v0.32)](React Native 之 Navigator(v0.32).md)
 
 
